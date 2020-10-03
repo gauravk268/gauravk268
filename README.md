@@ -8,5 +8,5 @@ You can find me on <a href="https://twitter.com/gaurav_k268">Twitter</a>, on <a 
 </a>
 
 <a href="https://github.com/gauravk268/gauravk268">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk268&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk268&layout=compact&hide=jupyter%20notebook" />
 </a>
