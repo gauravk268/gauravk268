@@ -1,7 +1,10 @@
 ![Header](https://github.com/gauravk268/gauravk268/blob/master/wall.jpg "Header")
 
 # Hello, folks! :smile:
-My name is Gaurav Kumar and I'm an aspiring Software Developer. I'm from India, currenlty studying Electronics and Communications Engineering at MNNIT Allahabad. </br>
+My name is Gaurav Kumar and I'm an aspiring Software Developer. I'm from India, currenlty studying Electronics and Communications Engineering at MNNIT Allahabad. I love to learn new things, specially if it is anything technical. :blush: </br>
+
+When I am free, you can find me scrolling through Quora, busy with Photography, or watching any sci-fi movie. :wink: </br>
+
 You can find me on <a href="https://twitter.com/gaurav_k268">Twitter</a>, on <a href="https://www.linkedin.com/in/gauravk268">LinkedIn</a>, or on <a href="https://www.quora.com/profile/Gaurav-1297">Quora</a>. Feel Free to Connect. :innocent:
 
 ## :chart: Github Stats
@@ -12,3 +15,5 @@ You can find me on <a href="https://twitter.com/gaurav_k268">Twitter</a>, on <a 
 <a href="https://github.com/gauravk268/gauravk268">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk268&layout=compact&hide=jupyter%20notebook" />
 </a>
+
+
