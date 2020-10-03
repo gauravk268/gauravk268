@@ -1,4 +1,4 @@
-[![Header](https://github.com/gauravk268/gauravk268/blob/master/wall.jpg "Header")]
+![Header](https://github.com/gauravk268/gauravk268/blob/master/wall.jpg "Header")
 
 # Hello, folks! :smile:
 My name is Gaurav Kumar and I'm an aspiring Software Developer. I'm from India, currenlty studying Electronics and Communications Engineering at MNNIT Allahabad. </br>
