@@ -7,7 +7,7 @@ When I am free, you can find me scrolling through Quora, busy with Photography, 
 
 You can find me on <a href="https://twitter.com/gaurav_k268">Twitter</a>, on <a href="https://www.linkedin.com/in/gauravk268">LinkedIn</a>, or on <a href="https://www.quora.com/profile/Gaurav-1297">Quora</a>. Feel Free to Connect. :innocent:
 
-## PortFolio Site
+## PortFolio Site: [ https://gauravk268.github.io ]
 <a href="https://gauravk268.github.io">
 	<img align="center" src="https://gauravk268.github.io/images/web-preview.jpeg" alt="https://gauravk268.github.io">
 </a>
