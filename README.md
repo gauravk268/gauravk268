@@ -5,7 +5,9 @@ My name is Gaurav Kumar and I'm an aspiring Software Developer. I'm from India, 
 
 When I am free, you can find me scrolling through Quora, busy with Photography, or watching any sci-fi movie. :wink: </br>
 
-You can find me on <a href="https://twitter.com/gaurav_k268">Twitter</a>, on <a href="https://www.linkedin.com/in/gauravk268">LinkedIn</a>, or on <a href="https://www.quora.com/profile/Gaurav-1297">Quora</a>. Feel Free to Connect. :innocent:
+You can find me on <a href="https://twitter.com/gaurav_k268">Twitter</a>, on <a href="https://www.linkedin.com/in/gauravk268">LinkedIn</a>, or on <a href="https://www.quora.com/profile/Gaurav-1297">Quora</a>. Feel Free to Connect. :innocent: </br>
+
+Don't forget to follow me on Github Too!
 
 ## PortFolio Site: [ https://gauravk268.github.io ]
 <a href="https://gauravk268.github.io">
