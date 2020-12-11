@@ -1,5 +1,3 @@
-![Header](https://github.com/gauravk268/gauravk268/blob/master/wall.jpg "Header")
-
 # Hello, folks! :smile:
 My name is Gaurav Kumar and I'm an aspiring Software Developer. I'm from India, currenlty studying Electronics and Communications Engineering at MNNIT Allahabad. I love to learn new things, specially if it is anything technical. :blush: </br>
 
