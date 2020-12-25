@@ -9,7 +9,7 @@ Don't forget to follow me on Github Too!
 
 ## PortFolio Site: [ https://gauravk268.github.io ]
 <a href="https://gauravk268.github.io">
-	<img align="center" src="https://gauravk268.github.io/images/web-preview.jpeg" alt="https://gauravk268.github.io">
+	<img align="center" src="https://gauravk268.github.io/images/web-preview.png" alt="https://gauravk268.github.io">
 </a>
 
 ## :chart: Github Stats
