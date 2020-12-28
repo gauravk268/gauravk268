@@ -18,6 +18,7 @@ Don't forget to follow me on Github Too!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravk268&show_icons=true&line_height=27&count_private=true" alt="Gaurav's GitHub Stats"/>
 </a>
 
+
 <a href="https://github.com/gauravk268/gauravk268">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk268&hide=jupyter%20notebook" />
 </a>
