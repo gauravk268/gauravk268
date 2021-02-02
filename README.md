@@ -8,9 +8,9 @@ You can find me on <a href="https://twitter.com/gaurav_k268">Twitter</a>, on <a 
 
 Don't forget to follow me on Github Too!
 
-## PortFolio Site: [ https://gauravk268.github.io ]
+## PortFolio Site: [ https://gauravk268.github.io / https://gauravk268.herokuapp.com]
 
-<a href="https://gauravk268.github.io">
+<a href="#">
 	<img align="center" src="https://gauravk268.github.io/images/web-preview.png" alt="https://gauravk268.github.io">
 </a>
 
