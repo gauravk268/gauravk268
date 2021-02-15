@@ -16,10 +16,22 @@ Don't forget to follow me on Github Too!
 
 ## :chart: Github Stats
 
-<a href="https://github.com/gauravk268/gauravk268">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravk268&show_icons=true&line_height=27&count_private=true" alt="Gaurav's GitHub Stats"/>
-</a><br>
+<p align="center">
+  <img 
+	src="https://github-readme-stats.vercel.app/api?username=gauravk268&show_icons=true&line_height=27&count_private=true"
+	alt="GitHub Stats"
+	>
+</p>
 
-<a href="https://github.com/gauravk268/gauravk268">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk268&hide=jupyter%20notebook" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk268"
+	alt="GitHub Streak"
+	>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk268&hide=jupyter%20notebook"
+	alt="Most Used Languages"
+	>
+</p>
+
