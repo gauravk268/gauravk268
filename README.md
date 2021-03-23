@@ -8,12 +8,6 @@
 
 #### Don't forget to follow me on Github Too!
 
-## PortFolio Site: [https://gauravk268.herokuapp.com]
-
-<a href="#">
-	<img align="center" src="https://gauravk268.github.io/images/web-preview.png" alt="https://gauravk268.github.io">
-</a>
-
 ## :chart: Github Stats
 
 <p align="center">
@@ -36,3 +30,9 @@
 	alt="Most Used Languages"
 	/>
 </p>
+
+## PortFolio Site: [https://gauravk268.herokuapp.com]
+
+<a href="#">
+	<img align="center" src="https://gauravk268.github.io/images/fullPageImage.png" alt="https://gauravk268.herokuapp.com">
+</a>
