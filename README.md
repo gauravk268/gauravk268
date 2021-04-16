@@ -6,7 +6,7 @@
 
 #### You can find me on <a href="https://twitter.com/gaurav_k268">Twitter</a>, on <a href="https://www.linkedin.com/in/gauravk268">LinkedIn</a>, or on <a href="https://www.quora.com/profile/Gaurav-1297">Quora</a>. Feel Free to Connect. :innocent: </br>
 
-#### Don't forget to follow me on Github Too!
+#### Don't forget to follow me on Github Too!!
 
 ## :chart: Github Stats
 
@@ -18,13 +18,6 @@
 </p>
 
 <p align="center">
-	<img 
-	src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk268"
-	alt="GitHub Streak"
-	/>
-</p>
-
-<p align="center">
   <img 
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk268&hide=jupyter%20notebook&layout=compact"
 	alt="Most Used Languages"
@@ -32,9 +25,9 @@
 </p>
 
 <p align="center" >
-<a href="https://gauravk.co" ><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
-<a href="https://twitter.com/gaurav_k268" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/></a>
-<a href="https://www.linkedin.com/in/gauravk268/" ><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
+<a href="https://gauravk.co" ><img src="https://img.icons8.com/color/48/000000/internet--v1.png"/></a>  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gauravk268/" ><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/gaurav_k268" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCIYgr_6qLgtq-qc02-pUYmw" ><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
