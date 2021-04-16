@@ -1,4 +1,4 @@
-# Hello, folks! :smile:
+<img align="center" src="https://gauravk268.github.io/images/header.png" alt="footer img" >
 
 #### My name is Gaurav Kumar and I'm an aspiring Web Developer. I'm from India, currenlty studying Electronics and Communications Engineering at MNNIT Allahabad. I love to learn new things, specially if it is anything technical. :blush: </br>
 
@@ -31,8 +31,11 @@
 	/>
 </p>
 
-## PortFolio Site: [https://gauravk268.herokuapp.com]
+<p align="center" >
+<a href="https://gauravk.co" ><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+<a href="https://twitter.com/gaurav_k268" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/></a>
+<a href="https://www.linkedin.com/in/gauravk268/" ><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
+<a href="https://www.youtube.com/channel/UCIYgr_6qLgtq-qc02-pUYmw" ><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
 
-<a href="#">
-	<img align="center" src="https://gauravk268.github.io/images/fullPageImage.png" alt="https://gauravk268.herokuapp.com">
-</a>
+<img align="center" src="https://gauravk268.github.io/images/footer.png" alt="footer img" >
