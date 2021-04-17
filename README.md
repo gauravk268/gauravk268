@@ -1,7 +1,5 @@
 <img align="center" src="https://gauravk268.github.io/images/header.png" alt="footer img" >
 
-&nbsp;&nbsp;
-
 <h3 align="center"> My name is Gaurav Kumar and I'm an aspiring Web Developer. I'm from India, currenlty studying Electronics and Communications Engineering at MNNIT Allahabad. I love to learn new things, specially if it is anything technical. :blush: </h3>
 
 <h3 align="center">When I am free, you can find me scrolling through Quora, busy with Photography, or watching any sci-fi movie. :wink: </h3>
