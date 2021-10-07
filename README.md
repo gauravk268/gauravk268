@@ -1,6 +1,6 @@
 <img align="center" src="https://gauravk268.github.io/images/header.png" alt="footer img" >
 
-#### I'm a 3rd-year B.Tech. Student from MNNIT Allahabad, currently studying Electronics and communications engineering. I am interested in data structure and algorithms, and Web Development. I love creating websites and solving problems that a normal person might face in real life using my development capabilities. :blush:
+#### I'm a Final-year B.Tech. Student from MNNIT Allahabad, currently studying Electronics and communications engineering. I am interested in data structure and algorithms, and Web Development. I love creating websites and solving problems that a normal person might face in real life using my development capabilities. :blush:
 
 #### When I am free, you can find me scrolling through Quora, busy with Photography, or watching any sci-fi movie. :wink:
 <br/>
