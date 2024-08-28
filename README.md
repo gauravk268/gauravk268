@@ -1,8 +1,25 @@
 <img align="center" src="https://gauravk268.github.io/images/header.png" alt="footer img" >
 
-#### I'm a Final-year B.Tech. Student from MNNIT Allahabad, currently studying Electronics and communications engineering. I am interested in data structure and algorithms, and Web Development. I love creating websites and solving problems that a normal person might face in real life using my development capabilities. :blush:
+Hi, I’m Gaurav, a passionate developer with a diverse skill set.
 
-#### When I am free, you can find me scrolling through Quora, busy with Photography, or watching any sci-fi movie. :wink:
+## Front-End Development:
+- **ReactJS**: I’ve worked with React extensively, leveraging its powerful features like hooks (useState, useEffect, useContext), virtual DOM, and component-based architecture.
+- **Angular**: With 2 years of experience, I’ve built dynamic user interfaces using Angular, mastering concepts like components, services, and routing.
+
+## Back-End Proficiency:
+- **Java Spring Boot**: I’ve developed RESTful APIs, handled authentication, and optimized performance using Spring Boot.
+- **Database Skills**: I’m comfortable with SQL, having worked on data modeling, queries, and database management.
+
+## DevOps and Deployment:
+- **GitLab**: I’ve used GitLab for version control, CI/CD pipelines, and collaboration.
+- **Docker**: Proficient in containerization, I’ve deployed applications using Docker.
+- **Bash Scripting**: I’ve created shell scripts using Linux commands, environment variables, pipes, and filters.
+
+## Continuous Learning:
+I’m always eager to learn and adapt to new technologies.
+
+Feel free to connect with me 🚀
+
 <br/>
 
 ## 🔧 I can work with
@@ -52,6 +69,7 @@
 <img align="center" src="https://gauravk268.github.io/images/footer.png" alt="footer img" >
 
 [portfolio]: https://gauravk.co
+[portfolio]: https://gauravk.netlify.app/
 [linkedin]: https://www.linkedin.com/in/gauravk268/0
 [twitter]: https://twitter.com/gaurav_k268
 [github]: https://github.com/gauravk268
