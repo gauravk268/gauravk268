@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Software Engineer with a Bachelor's Degree in Electronics & Communications Engineering (MNNIT Allahabad, India). Skilled in Fullstack Software Development. I'm experienced in Agile methodologies, Gitlab CI/CD, code reviews, and DevOps best practices. My approach combines technical excellence with continuous learning through documentation, tech discussions, and personal projects.
+Fullstack Software Developer with 3.5+ years of experience, specializing in designing scalable workflows, building robust deployment pipelines, and implementing innovative solutions to enhance system efficiency and user experience. Proficient in developing centralized data management systems, automating workflows, and creating user-friendly portals for seamless data interaction. Skilled in Agile methodologies, code quality improvement, and mentoring junior developers to foster collaborative team environments. Adept at leveraging modern technologies and frameworks to deliver high-quality, scalable solutions.
 
 ## 🛠️ Technical Stack
 
